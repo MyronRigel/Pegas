@@ -1,0 +1,6 @@
+export const CATALOG_ROUTE = '/catalog'
+export const CATALOG_ADD_ROUTE = '/catalog/add'
+export const CAR_PAGE_ROUTE = '/catalog'
+export const REGISTER_ROUTE = '/register'
+export const LOGIN_ROUTE = '/login'
+export const HOME_PAGE = '/'

@@ -1,0 +1,13 @@
+4000 = unhandled
+
+4001 = wrong validation
+4002 = user with email already exist
+4003 = user dont exist
+4004 = car already exist
+4005 = wrong email or password
+4006 -
+4007 = tokens is not valid
+4008 = no token
+4009 = photo size is too big
+4010 = not valid mimetype
+4011 = no more then one photo for cars
